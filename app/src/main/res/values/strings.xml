@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">A.M JumpStart</string>
+    <string name="back">Back</string>
+    <string name="smart_alarm">Smart Alarm</string>
+    <string name="classic_alarm">Classic Alarm</string>
+    <string name="alarms">Alarms</string>
+    <string name="placeholder">Placeholder</string>
+</resources>

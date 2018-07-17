@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/smart_alarm_menu"
+        android:title="@string/smart_alarm" />
+    <item
+        android:id="@+id/classic_alarm_menu"
+        android:title="@string/classic_alarm" />
+</menu>
