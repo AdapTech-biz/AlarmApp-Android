@@ -36,9 +36,7 @@ class MainActivity : AppCompatActivity() {
             when(it.itemId){
                 R.id.classic_alarm_menu ->{
                     Toast.makeText(this, "Classic", Toast.LENGTH_SHORT).show()
-                    val intent = Intent(this, ClassicAlarmActivity::class.java).apply {
-                        putExtra("My Name", "Xavier Davis")
-                    }
+                    val intent = Intent(this, ClassicAlarmActivity::class.java)
                     startActivity(intent)
                 }
                 R.id.smart_alarm_menu -> {
